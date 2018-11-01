@@ -3,12 +3,15 @@
   
   #Intalando o VIM
   apt-get install vim
+  read
   
   #Instalando o logo do Linux
   apt-get install linuxlogo
+  read
   
   #Atualizar
   apt update
+  read
   
   #Rede do computador
   ip address
